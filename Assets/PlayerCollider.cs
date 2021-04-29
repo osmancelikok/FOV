@@ -95,9 +95,9 @@ public class PlayerCollider : MonoBehaviour
         // sc2 = new Vector3(.33f, 0f, .33f); // 2 to 1
         // sc3 = new Vector3(.50f, 0f, .50f); // 3 to 2
 
-        sc_1 = new Vector3(-1f, 0f, -1f); // 0 to 1
-        sc_2 = new Vector3(-2f, 0f, -2f); // 1 to 2
-        sc_3 = new Vector3((float)-2.9, 0f, (float)-2.9f); // 2 to 3
+        sc_1 = new Vector3(-0.05f, 0f, -0.05f); // 0 to 1
+        sc_2 = new Vector3(-0.1f, 0f, -0.1f); // 1 to 2
+        sc_3 = new Vector3((float)-0.19, 0f, (float)-0.19f); // 2 to 3
         //SumArray = 0;
         //SumArray = 0;
         y1 = 0;
